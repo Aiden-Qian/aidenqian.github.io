@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!!!"
+title: "欢迎来到阿钱小站"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,21 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Cheng Qian. I am currently a Master student at Courant Institute of Mathematical Sciences at New York University, starting from Spring 2021. Previously, I did my Bachelor at the Department of Information Sciences at Beijing Language and Culture University.
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+这里是阿钱与uus的分享聚集地，但是在找工作期间会对分区进行限制，菜谱分享待我秋招结束后继续更新！！
 
 
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
----
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the 
-
-
-
-**Markdown generator**
 
