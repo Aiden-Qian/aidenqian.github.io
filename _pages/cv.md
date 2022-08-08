@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* B.S. in GitHub, GitHub University, 2012
+* 信息管理与信息系统学士,北京语言大学, 2016-2020
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
